@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Induja%20G&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Blockchain%20%26%20DID%20Enthusiast&descAlignY=60&descSize=18&sanitize=true" alt="header banner"/>
-</p>
-
 <div align="center">
 
+# 👩‍💻 Induja G
+### Full-Stack Developer 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Induja+G;Full-Stack+MERN+Developer+%F0%9F%9A%80;Blockchain+%26+DID+Systems+Builder+%F0%9F%94%90;CS+%26+Business+Systems+Graduate+%7C+2026+%F0%9F%8E%93" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=IndujaGandhi&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -106,11 +107,11 @@ const Induja = {
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Trophies
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=IndujaGandhi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=IndujaGandhi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=4&row=2" alt="GitHub Trophies"/>
 
 </div>
 
@@ -143,8 +144,8 @@ const Induja = {
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [🔐 Decentralized Digital Identity System (DID)](https://github.com/IndujaGandhi) | React.js · Node.js · MongoDB · Hyperledger Indy · IPFS · JWT | Blockchain-based identity platform with DID generation, issuance, verification & revocation · IPFS encrypted off-chain storage with blockchain anchoring · JWT + RBAC secured REST APIs · Zero-Knowledge Proofs for privacy-preserving credential verification |
-| [🛒 Full-Stack E-Commerce — Pet Shop](https://github.com/IndujaGandhi) | React.js · Node.js · Express.js · MongoDB · Postman | End-to-end MERN e-commerce app with product listings, cart & order management · RESTful APIs built & tested with Postman · Responsive UI across desktop & mobile using React Router |
+| [🔐 Decentralized Digital Identity System (DID)](https://github.com/IndujaGandhi) | React.js · Node.js · MongoDB · Hyperledger Indy · IPFS · JWT | Blockchain-based identity platform with DID generation, issuance, verification & revocation · IPFS encrypted off-chain storage · JWT + RBAC secured REST APIs · Zero-Knowledge Proofs for privacy-preserving verification |
+| [🛒 Full-Stack E-Commerce — Pet Shop](https://github.com/IndujaGandhi) | React.js · Node.js · Express.js · MongoDB · Postman | End-to-end MERN e-commerce app with product listings, cart & order management · RESTful APIs built & tested with Postman · Responsive UI across desktop & mobile |
 
 </div>
 
@@ -199,10 +200,8 @@ const Induja = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IndujaGandhi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:indujagandhi29@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=IndujaGandhi&color=70a5fd&style=flat-square&label=Profile+Views)
+---
+
+*"Build things that matter. Ship code that scales."* 🚀
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&sanitize=true" alt="footer banner"/>
-</p>
