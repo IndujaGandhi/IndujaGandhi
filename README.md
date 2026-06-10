@@ -3,7 +3,7 @@
 # 👩‍💻 Induja G
 ### Full-Stack Developer 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Induja+G;Full-Stack+MERN+Developer+%F0%9F%9A%80;Blockchain+%26+DID+Systems+Builder+%F0%9F%94%90;CS+%26+Business+Systems+Graduate+%7C+2026+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Induja+G;Full-Stack+MERN+Developer+%F0%9F%9A%80;CS+%26+Business+Systems+Graduate+%7C+2026+%F0%9F%8E%93" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IndujaGandhi&color=70a5fd&style=flat-square&label=Profile+Views)
 
